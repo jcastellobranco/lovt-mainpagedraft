@@ -247,6 +247,15 @@ footer .logos{
 
   
 @media (max-width: 520px) {
+    main .container-anuncios{
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        min-height:500px ;
+    }
+    main .banner-anuncio{
+        width: 95vw;
+    }
 
     footer .map-socialmedias{
         flex-direction: column;
