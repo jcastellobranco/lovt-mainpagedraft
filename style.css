@@ -51,10 +51,10 @@ main .fotos{
     width: 100vw;
 }
 main .banner{
-    width: 100vw;
+    width: 95vw;
     height: auto;
     min-height: 200px ;
-    margin: 10px auto;
+    margin: 10px 10px;
     background-image: url(img/slide-1.png) ;
     background-repeat: no-repeat;
     display: flex;
@@ -73,7 +73,7 @@ main .button {
 }
 
 main .container-anuncios{
-    width: 100vw;
+    width: 95vw;
     display:flex;
     justify-content: space-between;
     margin: 10px;
@@ -140,7 +140,7 @@ main .preco-tag p{
 }
 
 main .estilos {
-    width: 100%;
+    width: 95vw;
     height: auto;
     display: flex;
     flex-direction: column;
